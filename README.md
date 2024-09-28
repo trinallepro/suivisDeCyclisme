@@ -1,6 +1,4 @@
-Voici un modèle de README que vous pouvez utiliser pour votre application de suivi des performances cyclistes. Ce fichier explique le but de l'application, comment l'installer et l'utiliser, ainsi que des détails techniques.
 
----
 
 # Suivi des Performances Cyclistes
 
