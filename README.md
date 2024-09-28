@@ -33,23 +33,22 @@ pip install matplotlib
 1. Clonez le dépôt ou téléchargez le code source :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/suivi-performances-cyclistes.git
+   git clone https://github.com/votre-utilisateur/suivisDeCyslisme.git
    ```
 
 2. Accédez au répertoire du projet :
 
    ```bash
-   cd suivi-performances-cyclistes
+   cd suivisDeCyclisme
    ```
 
 3. Exécutez l'application :
 
    ```bash
-   python main.py
+   python app.py
    ```
 
-   > **Remarque :** Remplacez `main.py` par le nom de votre fichier principal si nécessaire.
-
+  
 ## Utilisation
 
 1. **Enregistrer une sortie** : Remplissez les champs de saisie avec les détails de votre sortie et cliquez sur "Enregistrer la sortie".
